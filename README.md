@@ -382,14 +382,14 @@ python model_inspect.py ^
 8. Some detection results of USA RoadSigns
 </h3>
 
-<img src="./projects/USA_RoadSigns/outputs/roadsigns1.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns2.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns3.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns4.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns5.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns6.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns7.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns8.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns9.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/roadsigns10.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/1.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/2.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/3.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/4.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/5.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/6.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/7.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/8.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/9.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/10.jpg" width="512" height="auto"><br>
 
