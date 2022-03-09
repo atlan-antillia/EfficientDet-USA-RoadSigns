@@ -70,21 +70,21 @@ USA RoadSigns <br>
   We have created <a href="./TFRecordInspector.py">TFRecordInspector.py</a> 
 from the original <i>view_tfrecord_tf2.py</i> to be able 
 to read a tfrecord file and label_map.pbtxt file on the command line.<br>
-Run the following command to inspect train.tfreord.<br>
+Run the following command to inspect valid.tfreord.<br>
 <pre>
 >python TFRecordInspector.py ./projects/USA_RoadSigns/valid/valid.tfrecord ./projects/USA_RoadSigns/train/label_map.pbtxt ./inspector/valid
 </pre>
 <br><br>
 This will generate annotated images with bboxes and labels from the tfrecord, and cout the number of annotated objects in it.<br>
 <br>
-<b>TFRecordInspecotr: annotated images in train.tfrecord</b><br>
-<img src="./asset/tfrecord_inspector_train.png">
+<b>TFRecordInspecotr: annotated images in valid.tfrecord</b><br>
+<img src="./asset/TFRecordInspection_valid.jpg">
 <br>
 <br>
-<b>TFRecordInspecotr: objects_count train.tfrecord</b><br>
-<img src="./asset/tfrecord_inspector_train_objects_count.png">
+<b>TFRecordInspecotr: objects_count valid.tfrecord</b><br>
+<img src="./asset/TFRecordInspection_valid_objects_count.jpg">
 <br>
-This bar graph shows that the number of the objects are almost uniformly distributed.
+This bar graph shows that the number of the objects.
 <br>
 <br>
 <br>
@@ -287,7 +287,7 @@ python main2.py ^
 <br>
 <br>
 <b>Train losses at epoch</b><br>
-<img src="./asset/train_losses_epoch.png" width="1024" height="auto">
+<img src="./asset/train_losses.png" width="1024" height="auto">
 <br>
 <br>
 <!--
