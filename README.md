@@ -58,8 +58,8 @@ EfficientDet-USA-RoadSigns
  The USA_RoadSigns tfrecord dataset has been taken from  
  <a href="https://github.com/sarah-antillia/TFRecord_Roadsigns">TFRecord_RoadSigns</a>
 <br>
-USA RoadSigns <br>
-<img src="./asset/roadsigns_list.png"> 
+Some RoadSigns in US <br>
+<img src="./asset/USA_RoadSigns_86classes.png"> 
 <br>
 
 <h3>3. Inspect tfrecord</h3>
