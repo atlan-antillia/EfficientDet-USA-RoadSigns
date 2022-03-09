@@ -290,11 +290,13 @@ python main2.py ^
 <img src="./asset/train_losses_epoch.png" width="1024" height="auto">
 <br>
 <br>
+<!--
 <b>COCO ap per class at epoch</b><br>
 <img src="./asset/coco_ap_per_class_epoch.png" width="1024" height="auto">
 <br>
 <br>
 <br>
+-->
 <h3>
 6. Create a saved_model from the checkpoint
 </h3>
