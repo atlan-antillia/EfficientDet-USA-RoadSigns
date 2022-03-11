@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_3.jpg,No_turns,0.97,816,411,974,566
+roadsigns_3.jpg,Path_narrows,0.96,306,192,461,346
+roadsigns_3.jpg,Lane_ends,0.93,563,300,718,457
+roadsigns_3.jpg,Bicycles,0.91,48,81,206,238
+roadsigns_3.jpg,Added_lane_from_entering_roadway,0.88,1074,521,1228,678

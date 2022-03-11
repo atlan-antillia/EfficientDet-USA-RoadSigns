@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_85.jpg,Pass_on_either_side,0.96,305,192,461,347
+roadsigns_85.jpg,Cross_roads,0.96,563,302,716,456
+roadsigns_85.jpg,No_bicycles,0.94,815,409,974,567
+roadsigns_85.jpg,Minimum_speed_limit_40,0.73,1065,510,1244,693
+roadsigns_85.jpg,Metric_low_clearance,0.48,54,90,201,227

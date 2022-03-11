@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_11.jpg,Detour,0.97,560,315,717,440
+roadsigns_11.jpg,Cross_roads,0.96,818,413,973,565
+roadsigns_11.jpg,No_parking,0.94,307,193,460,344
+roadsigns_11.jpg,No_right_turn,0.93,1076,521,1230,676
+roadsigns_11.jpg,Curve,0.9,49,81,206,238

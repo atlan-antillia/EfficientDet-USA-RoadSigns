@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_59.jpg,End_detour,0.96,817,430,972,546
+roadsigns_59.jpg,Lane_ends,0.93,307,192,460,346
+roadsigns_59.jpg,Do_not_enter,0.92,562,302,716,455
+roadsigns_59.jpg,Minimum_speed_limit_40,0.8,1064,510,1245,693
+roadsigns_59.jpg,Left_turn_only,0.46,56,81,193,238

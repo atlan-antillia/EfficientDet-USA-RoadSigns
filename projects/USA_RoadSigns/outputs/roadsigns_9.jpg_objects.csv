@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_9.jpg,Cross_roads,0.96,563,302,716,456
+roadsigns_9.jpg,Circular_intersection_warning,0.93,50,80,206,238
+roadsigns_9.jpg,Minimum_speed_limit_40,0.8,806,399,984,576
+roadsigns_9.jpg,Curve,0.76,304,192,462,346
+roadsigns_9.jpg,Low_clearance,0.56,1075,524,1233,679

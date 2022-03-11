@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_96.jpg,Cross_roads,0.96,52,82,203,235
+roadsigns_96.jpg,No_straight_through,0.94,815,410,975,567
+roadsigns_96.jpg,Path_narrows,0.94,305,191,462,346
+roadsigns_96.jpg,Reserved_parking_wheelchair,0.87,583,299,691,456
+roadsigns_96.jpg,No_pedestrian_crossing,0.86,1075,521,1231,682

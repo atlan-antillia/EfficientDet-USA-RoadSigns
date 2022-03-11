@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_97.jpg,Do_not_enter,0.97,306,192,461,347
+roadsigns_97.jpg,Left_turn_or_straight,0.94,1083,520,1219,680
+roadsigns_97.jpg,Pass_on_either_side,0.93,816,412,973,567
+roadsigns_97.jpg,Curve,0.91,49,81,206,238
+roadsigns_97.jpg,Dip,0.88,561,300,717,457

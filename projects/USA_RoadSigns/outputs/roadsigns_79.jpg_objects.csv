@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_79.jpg,Detour,0.96,816,424,974,551
+roadsigns_79.jpg,Circular_intersection_warning,0.93,1074,521,1228,678
+roadsigns_79.jpg,Lane_ends,0.92,563,300,717,457
+roadsigns_79.jpg,Hairpin_curve,0.89,48,82,205,236

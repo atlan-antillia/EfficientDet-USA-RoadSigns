@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_94.jpg,Chevron_alignment,0.98,840,414,953,566
+roadsigns_94.jpg,Chevron_alignment,0.97,72,83,185,235
+roadsigns_94.jpg,No_parking,0.94,307,193,460,344
+roadsigns_94.jpg,Keep_right,0.93,574,298,705,460
+roadsigns_94.jpg,Deer_crossing,0.91,1075,522,1233,681

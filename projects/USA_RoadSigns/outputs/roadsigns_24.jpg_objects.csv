@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_24.jpg,End_detour,0.96,817,430,972,546
+roadsigns_24.jpg,No_straight_through,0.95,561,300,717,456
+roadsigns_24.jpg,Keep_right,0.94,60,78,194,240
+roadsigns_24.jpg,No_left_or_u_turn,0.83,1075,520,1230,678

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_66.jpg,Cross_roads,0.97,818,413,973,565
+roadsigns_66.jpg,Left_turn_only,0.92,570,299,705,459
+roadsigns_66.jpg,Parking_with_time_restrictions,0.91,326,190,439,347
+roadsigns_66.jpg,Pedestrian_crossing,0.78,48,83,203,237
+roadsigns_66.jpg,Cross_roads,0.68,1075,523,1226,673

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_35.jpg,Pass_on_either_side,0.94,816,412,972,567
+roadsigns_35.jpg,No_bicycles,0.93,561,300,719,457
+roadsigns_35.jpg,Narrow_bridge,0.91,49,83,205,235
+roadsigns_35.jpg,Cross_roads,0.85,306,194,459,345
+roadsigns_35.jpg,Merge,0.77,1075,523,1236,681

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_92.jpg,Bike_lane_slippery_when_wet,0.95,49,80,205,237
+roadsigns_92.jpg,Do_not_enter,0.94,562,302,717,456
+roadsigns_92.jpg,Dip,0.92,818,411,973,567
+roadsigns_92.jpg,Path_narrows,0.91,1076,523,1239,685
+roadsigns_92.jpg,Path_narrows,0.69,307,192,461,346

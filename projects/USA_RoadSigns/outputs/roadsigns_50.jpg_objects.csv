@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_50.jpg,Night_speed_limit_45,0.96,295,182,475,357
+roadsigns_50.jpg,Pass_on_either_side,0.94,48,83,204,236
+roadsigns_50.jpg,Minimum_speed_limit_60km,0.93,572,279,704,479
+roadsigns_50.jpg,Pass_on_either_side,0.92,816,412,973,567
+roadsigns_50.jpg,Hairpin_curve,0.87,1075,521,1227,677

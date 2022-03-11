@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_41.jpg,Night_speed_limit_45,0.96,296,182,475,357
+roadsigns_41.jpg,Minimum_speed_limit_60km,0.93,572,280,704,479
+roadsigns_41.jpg,No_left_turn,0.93,49,82,202,238
+roadsigns_41.jpg,No_pedestrian_crossing,0.92,814,409,974,567
+roadsigns_41.jpg,Night_speed_limit_70km,0.91,1073,503,1231,700

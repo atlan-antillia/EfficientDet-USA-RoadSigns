@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_23.jpg,Pass_on_either_side,0.97,305,193,461,347
+roadsigns_23.jpg,Left_turn_or_straight,0.96,828,409,960,568
+roadsigns_23.jpg,Keep_left,0.95,61,79,195,240
+roadsigns_23.jpg,Pedestrian_crossing,0.92,561,301,718,458
+roadsigns_23.jpg,No_pedestrian_crossing,0.89,1074,520,1231,681

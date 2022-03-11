@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_93.jpg,Pass_on_either_side,0.97,305,192,460,346
+roadsigns_93.jpg,Bump,0.95,47,83,204,236
+roadsigns_93.jpg,Circular_intersection_warning,0.94,817,411,973,567
+roadsigns_93.jpg,No_bicycles,0.93,561,299,719,456
+roadsigns_93.jpg,Bump,0.9,1073,522,1230,678

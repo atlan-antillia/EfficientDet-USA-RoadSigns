@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_33.jpg,Minimum_speed_limit_40,0.95,46,61,204,254
+roadsigns_33.jpg,Merge,0.94,817,411,973,567
+roadsigns_33.jpg,Keep_right,0.94,575,300,704,458
+roadsigns_33.jpg,Cross_roads,0.89,307,194,461,345
+roadsigns_33.jpg,Low_clearance,0.52,1075,524,1232,679

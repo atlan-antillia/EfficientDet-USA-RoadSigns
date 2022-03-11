@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_12.jpg,Keep_right,0.94,828,408,961,569
+roadsigns_12.jpg,Hazardous_material_prohibited,0.93,563,301,717,457
+roadsigns_12.jpg,Deer_crossing,0.93,46,83,204,237
+roadsigns_12.jpg,Added_lane_from_entering_roadway,0.87,1074,521,1229,678
+roadsigns_12.jpg,Metric_low_clearance,0.43,308,199,458,336

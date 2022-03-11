@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_37.jpg,Pass_road,0.97,1103,523,1201,673
+roadsigns_37.jpg,Night_speed_limit_45,0.96,295,182,475,357
+roadsigns_37.jpg,Bump,0.93,561,300,718,457
+roadsigns_37.jpg,Added_lane_from_entering_roadway,0.92,816,411,973,565
+roadsigns_37.jpg,Night_speed_limit_70km,0.92,46,62,206,254

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_21.jpg,Hill_bicycle,0.95,51,81,204,237
+roadsigns_21.jpg,Do_not_enter,0.95,817,412,973,567
+roadsigns_21.jpg,Metric_low_clearance,0.94,1075,523,1230,679
+roadsigns_21.jpg,Hazardous_material_prohibited,0.94,308,194,460,348
+roadsigns_21.jpg,Low_clearance,0.75,561,299,717,457

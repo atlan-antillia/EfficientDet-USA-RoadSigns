@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_14.jpg,Added_lane_from_entering_roadway,0.92,817,411,973,566
+roadsigns_14.jpg,Dip,0.9,48,83,204,234
+roadsigns_14.jpg,Dip,0.89,562,300,718,457
+roadsigns_14.jpg,Path_narrows,0.87,1076,521,1238,682
+roadsigns_14.jpg,Path_narrows,0.8,306,192,461,347

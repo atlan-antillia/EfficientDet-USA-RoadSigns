@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_95.jpg,Night_speed_limit_45,0.96,295,182,475,357
+roadsigns_95.jpg,Do_not_enter,0.95,817,412,973,567
+roadsigns_95.jpg,Keep_right,0.94,574,298,705,460
+roadsigns_95.jpg,Circular_intersection_warning,0.93,50,80,206,238
+roadsigns_95.jpg,Low_clearance,0.72,1074,522,1233,680

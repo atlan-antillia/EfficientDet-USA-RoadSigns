@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_16.jpg,Metric_low_clearance,0.96,561,300,717,457
+roadsigns_16.jpg,End_detour,0.95,49,99,205,217
+roadsigns_16.jpg,Hazardous_material_route,0.95,817,411,973,566
+roadsigns_16.jpg,Hairpin_curve,0.95,307,191,461,345
+roadsigns_16.jpg,Bump,0.9,1073,523,1230,679

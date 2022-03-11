@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_43.jpg,Bicycles_and_pedestrians,0.96,818,412,973,568
+roadsigns_43.jpg,End_detour,0.94,1073,540,1228,657
+roadsigns_43.jpg,No_parking,0.93,561,301,716,456
+roadsigns_43.jpg,Parking_with_time_restrictions,0.91,326,190,439,347
+roadsigns_43.jpg,No_pedestrian_crossing,0.9,45,79,204,238

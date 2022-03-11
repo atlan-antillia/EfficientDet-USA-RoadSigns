@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_75.jpg,Hairpin_curve,0.95,307,191,461,345
+roadsigns_75.jpg,Left_turn_only,0.93,828,410,963,569
+roadsigns_75.jpg,Hazardous_material_prohibited,0.93,563,301,716,457
+roadsigns_75.jpg,Low_clearance,0.7,1073,522,1233,680
+roadsigns_75.jpg,Go_on_slow,0.5,58,82,194,238

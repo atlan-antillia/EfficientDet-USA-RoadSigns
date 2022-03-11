@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_19.jpg,Detour,0.97,559,315,716,439
+roadsigns_19.jpg,Hazardous_material_prohibited,0.94,50,82,203,238
+roadsigns_19.jpg,Low_clearance,0.93,1074,522,1230,677
+roadsigns_19.jpg,Parking_with_time_restrictions,0.91,327,190,440,347
+roadsigns_19.jpg,Left_turn_or_straight,0.59,828,409,958,566

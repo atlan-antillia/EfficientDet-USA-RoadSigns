@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_29.jpg,Bike_lane,0.95,1072,538,1232,659
+roadsigns_29.jpg,Hazardous_material_prohibited,0.94,308,194,461,347
+roadsigns_29.jpg,Low_clearance,0.91,49,81,206,237
+roadsigns_29.jpg,Added_lane_from_entering_roadway,0.91,817,412,973,566
+roadsigns_29.jpg,Reserved_parking_wheelchair,0.86,583,299,691,456

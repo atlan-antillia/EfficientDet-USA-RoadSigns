@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_36.jpg,Chevron_alignment,0.97,584,303,698,456
+roadsigns_36.jpg,Night_speed_limit_45,0.96,33,71,215,247
+roadsigns_36.jpg,Path_narrows,0.94,305,191,462,346
+roadsigns_36.jpg,Path_narrows,0.85,1076,521,1237,681
+roadsigns_36.jpg,Minimum_speed_limit_40,0.78,805,399,983,576

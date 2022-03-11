@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_82.jpg,Keep_left,0.96,574,299,704,459
+roadsigns_82.jpg,Railroad_crossing_ahead,0.93,305,192,461,346
+roadsigns_82.jpg,Merge,0.91,46,81,204,237
+roadsigns_82.jpg,Path_narrows,0.81,1074,522,1228,678
+roadsigns_82.jpg,Merge,0.62,816,411,972,567

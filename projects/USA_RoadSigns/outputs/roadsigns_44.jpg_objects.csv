@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_44.jpg,Hazardous_material_route,0.96,308,192,460,345
+roadsigns_44.jpg,No_right_turn,0.96,818,410,974,566
+roadsigns_44.jpg,No_right_turn,0.94,49,81,202,237
+roadsigns_44.jpg,Merge,0.72,1076,523,1236,681
+roadsigns_44.jpg,Left_turn_or_straight,0.64,571,301,703,455

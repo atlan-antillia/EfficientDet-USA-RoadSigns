@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_76.jpg,Minimum_speed_limit_40,0.97,304,170,463,368
+roadsigns_76.jpg,No_right_turn,0.93,1075,521,1229,676
+roadsigns_76.jpg,Pass_on_either_side,0.92,47,83,204,237
+roadsigns_76.jpg,Low_clearance,0.46,562,300,716,456
+roadsigns_76.jpg,Left_turn_or_straight,0.43,830,410,958,563

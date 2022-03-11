@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_48.jpg,One_direction,0.99,49,120,205,200
+roadsigns_48.jpg,Pass_on_either_side,0.96,306,192,461,346
+roadsigns_48.jpg,Railroad_crossing_ahead,0.91,561,300,718,458
+roadsigns_48.jpg,No_large_trucks,0.91,818,410,975,567
+roadsigns_48.jpg,Deer_crossing,0.86,1075,523,1232,680

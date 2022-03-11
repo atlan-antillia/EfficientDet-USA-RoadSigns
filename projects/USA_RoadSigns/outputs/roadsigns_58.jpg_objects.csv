@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_58.jpg,Cross_roads,0.96,563,302,716,455
+roadsigns_58.jpg,End_detour,0.95,1073,540,1228,658
+roadsigns_58.jpg,Lane_ends,0.93,307,192,461,347
+roadsigns_58.jpg,No_large_trucks,0.9,817,411,973,567
+roadsigns_58.jpg,Merging_traffic,0.87,49,84,204,236

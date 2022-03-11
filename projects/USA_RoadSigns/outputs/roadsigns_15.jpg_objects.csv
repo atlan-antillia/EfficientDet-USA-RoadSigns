@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_15.jpg,Bike_lane,0.95,1072,538,1232,659
+roadsigns_15.jpg,Do_not_enter,0.93,49,85,203,235
+roadsigns_15.jpg,Deer_crossing,0.91,817,410,973,567
+roadsigns_15.jpg,Left_turn_or_straight,0.9,316,191,446,348
+roadsigns_15.jpg,Pedestrian_crossing,0.81,560,299,718,457

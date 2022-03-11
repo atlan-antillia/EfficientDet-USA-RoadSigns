@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_100.jpg,Night_speed_limit_45,0.94,805,400,984,576
+roadsigns_100.jpg,Hazardous_material_prohibited,0.93,563,301,717,457
+roadsigns_100.jpg,Dip,0.91,48,83,205,235
+roadsigns_100.jpg,Merge,0.76,1076,523,1236,680
+roadsigns_100.jpg,Detour,0.62,306,230,462,307

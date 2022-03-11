@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_31.jpg,Left_turn_or_straight,0.96,572,300,707,458
+roadsigns_31.jpg,Hairpin_curve,0.93,306,191,461,346
+roadsigns_31.jpg,Merging_traffic,0.9,49,81,205,237
+roadsigns_31.jpg,Pass_on_either_side,0.61,817,412,974,568
+roadsigns_31.jpg,Low_clearance,0.5,1074,523,1233,678

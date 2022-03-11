@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_6.jpg,End_detour,0.96,818,430,973,546
+roadsigns_6.jpg,Bike_lane_slippery_when_wet,0.96,49,80,205,237
+roadsigns_6.jpg,Merge,0.95,306,192,459,347
+roadsigns_6.jpg,Pass_on_either_side,0.92,561,301,719,458
+roadsigns_6.jpg,Deer_crossing,0.83,1076,523,1232,680

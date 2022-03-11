@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_64.jpg,Minimum_speed_limit_40,0.97,304,170,463,367
+roadsigns_64.jpg,Go_on_slow,0.95,1085,519,1212,676
+roadsigns_64.jpg,Curve,0.92,816,411,973,565
+roadsigns_64.jpg,Added_lane_from_entering_roadway,0.88,562,300,717,457
+roadsigns_64.jpg,Pass_on_either_side,0.67,48,83,204,235

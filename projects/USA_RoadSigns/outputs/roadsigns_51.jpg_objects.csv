@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_51.jpg,Pass_road,0.98,79,84,179,234
+roadsigns_51.jpg,Left_turn_or_straight,0.95,828,409,961,567
+roadsigns_51.jpg,No_parking,0.94,307,193,460,344
+roadsigns_51.jpg,Railroad_crossing_ahead,0.92,561,299,719,457
+roadsigns_51.jpg,Minimum_speed_limit_40,0.74,1063,510,1244,693

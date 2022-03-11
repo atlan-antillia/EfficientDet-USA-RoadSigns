@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_2.jpg,Keep_right,0.95,318,189,448,349
+roadsigns_2.jpg,Merge,0.94,816,411,973,566
+roadsigns_2.jpg,Keep_right,0.93,1086,519,1217,680
+roadsigns_2.jpg,Pedestrian_crossing,0.92,561,301,718,458
+roadsigns_2.jpg,Added_lane_from_entering_roadway,0.87,47,81,204,234

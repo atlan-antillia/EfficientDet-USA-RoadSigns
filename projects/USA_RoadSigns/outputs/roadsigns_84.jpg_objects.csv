@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_84.jpg,Pass_on_either_side,0.96,305,192,461,346
+roadsigns_84.jpg,Keep_left,0.96,574,300,703,459
+roadsigns_84.jpg,Pass_on_either_side,0.89,1074,521,1228,676
+roadsigns_84.jpg,Reserved_parking_wheelchair,0.88,843,410,951,566

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_17.jpg,Do_not_enter,0.96,306,192,460,345
+roadsigns_17.jpg,Left_turn_or_straight,0.95,828,409,960,568
+roadsigns_17.jpg,Go_on_slow,0.93,63,80,191,237
+roadsigns_17.jpg,No_large_trucks,0.92,562,300,716,455
+roadsigns_17.jpg,Deer_crossing,0.82,1075,523,1232,680

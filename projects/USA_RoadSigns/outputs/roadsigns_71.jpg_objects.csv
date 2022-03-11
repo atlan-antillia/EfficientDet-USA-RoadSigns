@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_71.jpg,Do_not_enter,0.95,817,412,973,566
+roadsigns_71.jpg,No_parking,0.93,562,301,716,456
+roadsigns_71.jpg,Minimum_speed_limit_40,0.93,43,62,207,255
+roadsigns_71.jpg,Minimum_speed_limit_60km,0.83,1088,503,1217,698

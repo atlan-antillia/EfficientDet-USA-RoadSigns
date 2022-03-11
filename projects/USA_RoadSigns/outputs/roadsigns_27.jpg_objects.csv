@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_27.jpg,Minimum_speed_limit_60km,0.97,828,391,963,586
+roadsigns_27.jpg,No_right_turn,0.96,308,193,459,345
+roadsigns_27.jpg,Left_turn_or_straight,0.96,571,300,706,458
+roadsigns_27.jpg,Left_turn_only,0.94,59,80,194,239
+roadsigns_27.jpg,No_left_turn,0.9,1076,521,1230,680

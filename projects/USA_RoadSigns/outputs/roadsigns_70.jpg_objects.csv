@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_70.jpg,Cross_roads,0.97,818,413,973,565
+roadsigns_70.jpg,No_right_turn,0.94,1076,521,1230,676
+roadsigns_70.jpg,Hazardous_material_prohibited,0.93,563,301,717,457
+roadsigns_70.jpg,Railroad_crossing_ahead,0.92,304,192,462,348
+roadsigns_70.jpg,Cross_roads,0.8,52,82,203,234

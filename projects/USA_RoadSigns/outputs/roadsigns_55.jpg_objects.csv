@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_55.jpg,Pass_on_either_side,0.94,1074,521,1230,677
+roadsigns_55.jpg,Hazardous_material_prohibited,0.93,563,301,717,457
+roadsigns_55.jpg,No_pedestrian_crossing,0.92,814,408,974,568
+roadsigns_55.jpg,Railroad_crossing_ahead,0.92,49,80,206,237
+roadsigns_55.jpg,Parking_with_time_restrictions,0.91,326,190,439,348

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_20.jpg,Hazardous_material_route,0.95,48,81,203,237
+roadsigns_20.jpg,Detour,0.94,305,205,461,332
+roadsigns_20.jpg,No_right_turn,0.94,1076,521,1230,676
+roadsigns_20.jpg,Pedestrian_crossing,0.92,561,301,718,458
+roadsigns_20.jpg,Circular_intersection_warning,0.58,818,413,973,566

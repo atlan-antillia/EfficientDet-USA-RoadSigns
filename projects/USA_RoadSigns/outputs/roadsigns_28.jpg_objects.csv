@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_28.jpg,Left_turn_or_straight,0.96,59,80,194,238
+roadsigns_28.jpg,Railroad_crossing_ahead,0.93,561,300,718,458
+roadsigns_28.jpg,Merge,0.78,1076,522,1235,680
+roadsigns_28.jpg,Railroad_crossing,0.77,812,405,977,571
+roadsigns_28.jpg,Metric_low_clearance,0.51,308,199,458,336

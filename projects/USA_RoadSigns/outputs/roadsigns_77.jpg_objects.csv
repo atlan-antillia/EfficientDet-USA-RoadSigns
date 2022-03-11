@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_77.jpg,Deer_crossing,0.92,1075,523,1235,680
+roadsigns_77.jpg,Reserved_parking_wheelchair,0.9,843,410,950,566
+roadsigns_77.jpg,Path_narrows,0.77,45,82,204,237
+roadsigns_77.jpg,End_detour,0.5,302,219,465,318

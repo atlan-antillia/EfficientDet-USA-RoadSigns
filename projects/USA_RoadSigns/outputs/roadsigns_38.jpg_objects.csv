@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_38.jpg,Cross_roads,0.96,563,302,716,455
+roadsigns_38.jpg,Do_not_enter,0.95,817,412,973,567
+roadsigns_38.jpg,Parking_with_time_restrictions,0.92,326,190,439,348
+roadsigns_38.jpg,No_bicycles,0.91,45,80,203,238
+roadsigns_38.jpg,Low_clearance,0.52,1075,524,1233,679

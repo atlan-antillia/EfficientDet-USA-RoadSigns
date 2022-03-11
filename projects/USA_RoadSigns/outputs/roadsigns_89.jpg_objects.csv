@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_89.jpg,Keep_left,0.94,827,408,960,568
+roadsigns_89.jpg,No_large_trucks,0.92,1075,520,1228,675
+roadsigns_89.jpg,Bicycles,0.92,48,81,206,237
+roadsigns_89.jpg,End_detour,0.55,303,219,466,318

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_61.jpg,No_straight_through,0.95,1075,521,1230,675
+roadsigns_61.jpg,No_large_trucks,0.91,818,410,975,567
+roadsigns_61.jpg,Cross_roads,0.82,563,302,716,455
+roadsigns_61.jpg,Curve,0.79,304,192,461,346
+roadsigns_61.jpg,End_detour,0.49,46,108,206,207

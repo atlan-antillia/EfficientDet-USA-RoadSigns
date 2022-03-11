@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_83.jpg,Hazardous_material_prohibited,0.93,308,194,460,347
+roadsigns_83.jpg,Added_lane_from_entering_roadway,0.91,817,412,972,566
+roadsigns_83.jpg,Left_turn_or_straight,0.66,570,300,703,455
+roadsigns_83.jpg,Low_clearance,0.62,1074,522,1234,680
+roadsigns_83.jpg,Added_lane_from_entering_roadway,0.5,52,83,203,236

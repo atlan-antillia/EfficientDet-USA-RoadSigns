@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_49.jpg,Do_not_enter,0.93,562,302,716,455
+roadsigns_49.jpg,Merging_traffic,0.91,1074,522,1228,677
+roadsigns_49.jpg,Parking_with_time_restrictions,0.91,75,81,179,237
+roadsigns_49.jpg,Path_narrows,0.89,817,411,974,567

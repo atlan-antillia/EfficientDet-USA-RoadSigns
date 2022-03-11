@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_30.jpg,No_straight_through,0.95,1075,521,1230,675
+roadsigns_30.jpg,Pedestrian_crossing,0.93,306,190,460,347
+roadsigns_30.jpg,Merge,0.92,47,83,204,236
+roadsigns_30.jpg,No_bicycles,0.92,561,300,719,457
+roadsigns_30.jpg,Path_narrows,0.89,817,411,974,566

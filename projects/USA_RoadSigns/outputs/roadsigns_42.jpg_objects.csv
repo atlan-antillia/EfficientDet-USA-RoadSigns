@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_42.jpg,Go_on_slow,0.95,1085,519,1213,675
+roadsigns_42.jpg,Lane_ends,0.93,563,300,718,457
+roadsigns_42.jpg,No_parking,0.93,49,81,202,237
+roadsigns_42.jpg,Keep_left,0.93,827,409,960,568
+roadsigns_42.jpg,End_detour,0.56,302,219,465,317

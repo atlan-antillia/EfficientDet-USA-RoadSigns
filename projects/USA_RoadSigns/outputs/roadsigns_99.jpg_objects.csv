@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_99.jpg,Path_narrows,0.96,306,192,460,345
+roadsigns_99.jpg,Detour,0.93,50,95,206,221
+roadsigns_99.jpg,Left_turn_or_straight,0.72,570,300,703,456
+roadsigns_99.jpg,Low_clearance,0.59,1074,523,1233,678
+roadsigns_99.jpg,Pass_on_either_side,0.57,817,412,973,568

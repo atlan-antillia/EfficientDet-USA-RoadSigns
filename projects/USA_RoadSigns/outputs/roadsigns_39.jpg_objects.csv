@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_39.jpg,Night_speed_limit_45,0.96,296,182,475,356
+roadsigns_39.jpg,No_right_turn,0.95,563,301,716,454
+roadsigns_39.jpg,Left_turn_or_straight,0.94,1083,520,1219,679
+roadsigns_39.jpg,No_large_trucks,0.93,51,81,202,237
+roadsigns_39.jpg,Reserved_parking_wheelchair,0.87,843,410,951,567

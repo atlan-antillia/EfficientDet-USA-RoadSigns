@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_72.jpg,Pedestrian_crossing,0.93,817,409,972,567
+roadsigns_72.jpg,Lane_ends,0.93,307,192,461,346
+roadsigns_72.jpg,Minimum_speed_limit_60km,0.92,58,62,195,256
+roadsigns_72.jpg,Hairpin_curve,0.86,1075,522,1227,677
+roadsigns_72.jpg,Low_clearance,0.75,561,299,717,456

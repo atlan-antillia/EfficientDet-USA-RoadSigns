@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+roadsigns_22.jpg,Metric_low_clearance,0.97,817,411,973,566
+roadsigns_22.jpg,Left_turn_or_straight,0.95,571,300,706,458
+roadsigns_22.jpg,Keep_left,0.95,60,79,195,240
+roadsigns_22.jpg,Left_turn_only,0.93,316,190,448,348
+roadsigns_22.jpg,Minimum_speed_limit_40,0.77,1064,510,1245,693
