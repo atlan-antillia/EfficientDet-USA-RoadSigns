@@ -344,7 +344,7 @@ python model_inspect.py ^
   --model_name=efficientdet-d0 ^
   --saved_model_dir=./projects/USA_RoadSigns/saved_model ^
   --min_score_thresh=0.3 ^
-  --hparams=./projects/USA_RoadSigns/configs/detect.yaml ^
+  --hparams="label_map=./projects/USA_RoadSigns/label_map.yaml" ^
   --input_image=./projects/USA_RoadSigns/test/*.jpg ^
   --output_image_dir=./projects/USA_RoadSigns/outputs
 </pre>
@@ -383,14 +383,14 @@ python model_inspect.py ^
 8. Some detection results of USA RoadSigns
 </h3>
 
-<img src="./projects/USA_RoadSigns/outputs/1.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/2.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/3.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/4.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/5.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/6.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/7.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/8.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/9.jpg" width="512" height="auto"><br>
-<img src="./projects/USA_RoadSigns/outputs/10.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_1.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_2.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_3.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_4.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_5.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_6.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_7.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_8.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_9.jpg" width="512" height="auto"><br>
+<img src="./projects/USA_RoadSigns/outputs/roadsigns_10.jpg" width="512" height="auto"><br>
 
